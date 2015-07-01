@@ -1,2 +1,9 @@
 This is a test file
 
+git pull https://github.com/pablcorr/test-repo.git master
+
+
+git commit -a
+
+git push
+
