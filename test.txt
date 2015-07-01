@@ -7,3 +7,4 @@ git commit -a
 
 git push
 
+##Test to store credentials
